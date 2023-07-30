@@ -61,5 +61,6 @@ Let’s look at the properties of the fabric network required for the supply cha
 **Note:** There are several other attributes for the network setup that are not specified. You are free to assume the values for those attributes.
 
 ## Smart Contract Properties
-![](images/Smart_Contract_Flow.png)
+
+<img width="746" alt="Screenshot 2023-07-30 at 2 18 28 PM" src="https://github.com/dhayalan/pharma-net/assets/121813/835d78b6-b9c2-439a-ba0e-e98d5aff0ca6">
 
